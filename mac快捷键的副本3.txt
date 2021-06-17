@@ -1,0 +1,3 @@
+快速生成try/catch control +option+ o
+getter和setter和重载构造方法  command +n
+control+ o 快速重写方法
